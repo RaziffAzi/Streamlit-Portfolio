@@ -56,9 +56,8 @@ if page == "🏠 Home":
         st.markdown('<div class="main-header">👋 Hi, I\'m Raziff Gumapon</div>', unsafe_allow_html=True)
         st.markdown("""
         <div style="text-align: justify; font-size: 1.1rem;">
-        I'm a passionate Computer Science student at <strong>Cebu Institute of Technology - University</strong>, 
-        eager to explore the world of data science and machine learning. 
-        I enjoy problem-solving and programming and am constantly seeking opportunities to learn and grow in my field.
+        I'm a passionate Computer Science student at Cebu Institute of Technology - University, eager to explore the world of data science and machine learning. 
+        I enjoy problem-solving and programming and am constantly seeking opportunities to learn and grow in my field, even though it is sometimes challenging.
         </div>
         """, unsafe_allow_html=True)
         
