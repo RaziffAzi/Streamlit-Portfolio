@@ -215,7 +215,7 @@ elif page == "📊 Fun Stats":
     # Enhanced skills data
     df = pd.DataFrame({
         "Skill": ["Python", "Java", "C", "C++", "C#", "MySQL", "JavaScript","Django", "Kotlin", "React"],
-        "Category": ["Language", "Language", "Language", "Language", "Language", "Database", "Language", "Language", "Framework", "Framework"],
+        "Category": ["Language", "Language", "Language", "Language", "Language", "Database", "Language", "Framework", "Language", "Framework"],
         "Proficiency (%)": [70, 68, 65, 65, 45, 40, 35, 30, 25, 25],
     })
     
